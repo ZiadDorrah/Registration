@@ -20,7 +20,9 @@
     width: 95%;
     border-radius: 12px;
 }
-
+input{
+    box-shadow: none !important;
+}
 
 
 
